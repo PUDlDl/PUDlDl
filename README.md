@@ -56,12 +56,6 @@ just fun
     <a href="https://codecov.io/gh/PUDlDl/github-readme-stats">
       <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/PUDlDl/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/PUDlDl/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/PUDlDl/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/PUDlDl/github-readme-stats?color=0088ff" />
-    </a>
     <br />
     <br />
     <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
