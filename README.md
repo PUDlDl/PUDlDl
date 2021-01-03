@@ -1,4 +1,4 @@
-<details>
+<p align="center">
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px"> 
 
 <div align="center">
