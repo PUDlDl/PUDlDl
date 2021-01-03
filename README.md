@@ -50,10 +50,10 @@ just fun
 </details>
 
 <p align="center">
-    <a href="https://github.com/itspapoy/github-readme-stats/actions">
+    <a href="https://github.com/PUDlDl/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-    <a href="https://codecov.io/gh/itspapoy/github-readme-stats">
+    <a href="https://codecov.io/gh/PUDlDl/github-readme-stats">
       <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
     <a href="https://github.com/PUDlDl/github-readme-stats/issues">
