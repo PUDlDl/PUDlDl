@@ -1,4 +1,4 @@
-# Kon'nichiwa Minna <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ! I'm AkaruiAikara
+# Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ! I'm miyaw
 
 <p align="center">
   <img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif">
