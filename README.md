@@ -28,8 +28,6 @@ just fun
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&redirect=true)
 
-<img align="center" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
 <p align="right">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=falla_vall&redirect=true" > <img src="https://spotify-github-profile.vercel.app/api/view?uid=falla_vall&cover_image=true&theme=novatorem" alt="Spotify-Now" /></a><br>
   <a href="https://www.last.fm/user/falla_vall" > <img src="https://spotify-recently-played-readme.vercel.app/api?user=falla_vall&width=400" alt="Spotify-Recent" /></a>
