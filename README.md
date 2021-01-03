@@ -37,7 +37,7 @@ y i noob
 <details>
   <summary><b>Connect with me</b></summary>
   <p align="center">
-    <i>Let's connect and chat! We are about to Change the World.</i><br><br>
+    <i>Let's connect and chat oughey.</i><br><br>
     <a href="https://wa.me/6287714745440" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="n1ghtpe0ple420" height="30" width="40" /></a>
     <a href="https://instagram.com/itspapoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="putra.go.id" height="30" width="40" /></a>
   </p>
