@@ -10,8 +10,8 @@ y i noob
 ```
 
 ## Stats
-<p align="center"><a href="https://github.com/AkaruiAikara"><img src="https://github-readme-stats.vercel.app/api?username=AkaruiAikara&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/AkaruiAikara"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaruiAikara&theme=highcontrast&layout=compact"></a></p>
+<p align="center"><a href="https://github.com/PUDlDl"><img src="https://github-readme-stats.vercel.app/api?username=PUDlDl&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/PUDlDl"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUDlDl&theme=highcontrast&layout=compact"></a></p>
 
 ## Recent Musics
 <p align="center">
