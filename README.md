@@ -7,10 +7,12 @@
 
 <img src="https://raw.githubusercontent.com/PUDlDl/PUDlDl/master/img/kawaii.gif">
 
+
 <div align="center">
 <img src="https://img.wattpad.com/userbg/monopi123.49228.jpg" alt="Botto-re" width="500" />
 
-<p align="center">
+
+<div align="center">
   <img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif">
 </p>
 
