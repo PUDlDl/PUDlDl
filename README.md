@@ -5,19 +5,17 @@
 <a href="#"> ✪〘 <img title="PUDlDl" src="https://img.shields.io/badge/pudidiツ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> 〙✪
 </p>
 
-<img src="https://raw.githubusercontent.com/PUDlDl/PUDlDl/master/img/kawaii.gif">
-
-
 <div align="center">
 <img src="https://img.wattpad.com/userbg/monopi123.49228.jpg" alt="Botto-re" width="500" />
 
+<img src="https://raw.githubusercontent.com/PUDlDl/PUDlDl/master/img/kawaii.gif">
 
-<div align="center">
+<p align="center">
   <img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif">
 </p>
 
 ```
-just fun
+just funツ
 
 ```
 
