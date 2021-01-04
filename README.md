@@ -1,6 +1,8 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px"> 
 
+<img src="https://raw.githubusercontent.com/PUDlDl/PUDlDl/master/img/kawaii.gif">
+
 <p align="center">
 <a href="#"> ✪〘 <img title="PUDlDl" src="https://img.shields.io/badge/pudidiツ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> 〙✪
 </p>
