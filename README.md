@@ -9,6 +9,10 @@ _``Languages and Tools Little:``_
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png"></code>
 
+# Blob
+
+![blobcheer.png](emojis/Blobs/blobcheer.png)
+
 <p align="center">
 <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="65vw" />
 
