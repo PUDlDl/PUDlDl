@@ -13,9 +13,6 @@ _``Languages and Tools Little:``_
 <img src="https://raw.githubusercontent.com/PUDlDl/PUDlDl/master/img/amazing.png">
 
 <p align="center">
-<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="65vw" />
-
-<p align="center">
 <a href="#"> ✪〘 <img title="PUDlDl" src="https://img.shields.io/badge/pudidiツ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> 〙✪
 </p>
 
