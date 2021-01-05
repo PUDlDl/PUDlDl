@@ -59,7 +59,7 @@ just funツ
 </p>
 
 <h2 align="center">Trophies</h2></a>
-<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=CrazyChickenDev&margin-w=30"/>
+<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=PUDlDl&margin-w=30"/>
 </p>
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
