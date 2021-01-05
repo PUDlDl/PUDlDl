@@ -53,9 +53,6 @@ just funツ
   <img alt="GatsbyJs" src="https://img.shields.io/badge/-GatsbyJs-64FFDA?style=flat-square&logo=gatsbyjs&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-64FFDA?style=flat-square&logo=c++&logoCol
 
-<h3 align="center">🎧 I'm currently vibing to</h3>
-<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true" alt="spotify"/></p>
-
 <h2 align="center">Trophies</h2></a>
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=CrazyChickenDev&margin-w=30"/>
 </p>
@@ -70,6 +67,9 @@ just funツ
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=falla_vall&redirect=true" > <img src="https://spotify-github-profile.vercel.app/api/view?uid=falla_vall&cover_image=true&theme=novatorem" alt="Spotify-Now" /></a><br>
   <a href="https://www.last.fm/user/falla_vall" > <img src="https://spotify-recently-played-readme.vercel.app/api?user=falla_vall&width=400" alt="Spotify-Recent" /></a>
 </p>
+
+<h3 align="center">🎧 I'm currently vibing to</h3>
+<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true" alt="spotify"/></p>
 
 <details>
   <summary><b>My Github Stats</b></summary>
