@@ -31,7 +31,7 @@ just funツ
 
 ```
 
-## Stats
+## _Stats_
 <p align="center"><a href="https://github.com/PUDlDl"><img src="https://github-readme-stats.vercel.app/api?username=PUDlDl&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/PUDlDl"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUDlDl&theme=highcontrast&layout=compact"></a></p>
 
@@ -39,7 +39,7 @@ just funツ
 <!--END_SECTION:waka-->
 <p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=PUDlDl&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUDlDl&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="PUDlDl"/> </p>
 
-<h3 align="center">Languages, Framework and Tools:</h3>
+<h3 align="center">_Languages, Framework and Tools:_</h3>
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-64FFDA?style=flat-square&logo=react&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-64FFDA?style=flat-square&logo=python&logoColor=white" />
@@ -59,13 +59,13 @@ just funツ
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-64FFDA?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h2 align="center">Trophies</h2></a>
+<h2 align="center">_Trophies_</h2></a>
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=PUDlDl&margin-w=30"/>
 </p>
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 
+### _Spotify Playing_
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&redirect=true)
 
@@ -74,7 +74,7 @@ just funツ
   <a href="https://www.last.fm/user/falla_vall" > <img src="https://spotify-recently-played-readme.vercel.app/api?user=falla_vall&width=400" alt="Spotify-Recent" /></a>
 </p>
 
-<h3 align="center">🎧 I'm currently vibing to</h3>
+<h3 align="center">🎧 _I'm currently vibing_ to</h3>
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true" alt="spotify"/></p>
 
 <details>
@@ -110,7 +110,7 @@ just funツ
     </a>
   </p>
 
-# MEDIA
+# _MEDIA_
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://github.com/AwesomeLogos/logomono/blob/gh-pages/logos/tableau-software.svg"></code>
