@@ -51,7 +51,12 @@ just funツ
   <img alt="Css" src="https://img.shields.io/badge/-Css-64FFDA?style=flat-square&logo=css&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-64FFDA?style=flat-square&logo=git&logoColor=white" />
   <img alt="GatsbyJs" src="https://img.shields.io/badge/-GatsbyJs-64FFDA?style=flat-square&logo=gatsbyjs&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-64FFDA?style=flat-square&logo=c++&logoCol
+  <img alt="C++" src="https://img.shields.io/badge/-C++-64FFDA?style=flat-square&logo=c++&logoColor=white" />
+  <img alt="Npm" src="https://img.shields.io/badge/-NPM-64FFDA?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-64FFDA?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Linux shell" src="https://img.shields.io/badge/-Linux_Shell-64FFDA?style=flat-square&logo=linux-shell&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-64FFDA?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
 
 <h2 align="center">Trophies</h2></a>
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=CrazyChickenDev&margin-w=30"/>
