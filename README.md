@@ -1,4 +1,4 @@
-**Languages and Tools:**  
+**Languages and Tools Little:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -33,6 +33,31 @@ just funツ
 ## Stats
 <p align="center"><a href="https://github.com/PUDlDl"><img src="https://github-readme-stats.vercel.app/api?username=PUDlDl&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/PUDlDl"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUDlDl&theme=highcontrast&layout=compact"></a></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=crazychickendev&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_private=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazychickendev&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="crazychickendev"/> </p>
+<h3 align="center">🎧 I'm currently vibing to</h3>
+<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true" alt="spotify"/></p>
+
+<h2 align="center">Trophies</h2></a>
+<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=CrazyChickenDev&margin-w=30"/>
+</p>
+
+<h3 align="center">🤭 Languages, Framework and Tools:</h3>
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/-React-64FFDA?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-64FFDA?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-64FFDA?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-64FFDA?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-64FFDA?style=flat-square&logo=php&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-64FFDA?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-64FFDA?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-64FFDA?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Css" src="https://img.shields.io/badge/-Css-64FFDA?style=flat-square&logo=css&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-64FFDA?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GatsbyJs" src="https://img.shields.io/badge/-GatsbyJs-64FFDA?style=flat-square&logo=gatsbyjs&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-64FFDA?style=flat-square&logo=c++&logoCol
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
