@@ -10,7 +10,7 @@ _``Languages and Tools Little:``_
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png"></code>
 
 <p align="center">
-<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="80vw" />
+<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="65vw" />
 
 <p align="center">
 <a href="#"> ✪〘 <img title="PUDlDl" src="https://img.shields.io/badge/pudidiツ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> 〙✪
