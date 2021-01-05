@@ -9,6 +9,7 @@ _``Languages and Tools Little:``_
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png"></code>
 
+<p align="center">
 ![macos.png](img/macos.png)
 
 <p align="center">
