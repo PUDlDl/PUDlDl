@@ -11,7 +11,7 @@ _``Languages and Tools Little:``_
 
 <div align="center">
 ![amazing.png](img/amazing.png)
-
+<p>
 <p align="center">
 <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="65vw" />
 
