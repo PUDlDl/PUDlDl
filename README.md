@@ -10,8 +10,8 @@ _``Languages and Tools Little:``_
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png"></code>
 
 <div align="center">
-![amazing.png](img/amazing.png)
-<p>
+<img src="https://raw.githubusercontent.com/PUDlDl/PUDlDl/master/img/amazing.png">
+
 <p align="center">
 <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="65vw" />
 
