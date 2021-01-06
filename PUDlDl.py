@@ -6,7 +6,7 @@ print ("\033[1;35matau silahkan Hubungi 081316577616 ")
 print ("\033[1;32mJgn Ngasal Cok ntr salah ")
 ID = 'TheSploit1109001'      
 
-password = 'Sploit1109001'
+password = 'PUDlDl1109001'
 
 
 
