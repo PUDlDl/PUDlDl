@@ -137,4 +137,4 @@ just funツ
 
 [![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=axios&package-manager=npm_and_yarn&previous-version=0.20.0&new-version=0.21.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
 
-[`Saweria`](saweria.co/PUDlDl)
+[`Saweria`](https://saweria.co/PUDlDl)
