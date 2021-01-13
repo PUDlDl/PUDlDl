@@ -1,3 +1,5 @@
+<img align="center" height="auto" src="https://img.shields.io/badge/Welcome%20to%20my%C2%B2%20github-020433?style=for-the-badge&logo=github"/>
+
 <p align="center"> 
   Req<br>
   <img src="https://profile-counter.glitch.me/PUDlDl-BOT/count.svg" />
@@ -139,3 +141,5 @@ just funツ
 
 | Donasi kak>< | [`Saweria`](https://saweria.co/PUDlDl) |
 | :-: | :-: |
+
+<img align="center" height="auto" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
